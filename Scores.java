@@ -1,4 +1,6 @@
-// Autores  Marcos Tadeu de Sousa Cunha
+/**
+* Autor  Marcos Tadeu de Sousa Cunha
+*/
 
 import java.util.Scanner;
 
